@@ -123,7 +123,7 @@ export function Navbar() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Inicio
-              </Link>
+              </Link>/*
               <Link 
                 to="/"
                 className="text-[15px] text-[#5B6670] hover:text-[#EB0029] transition-colors px-2 py-1"
@@ -137,7 +137,7 @@ export function Navbar() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Certificación
-              </Link>
+              </Link>*/
               
               {/* Mobile Auth Buttons */}
               <div className="flex flex-col space-y-3 pt-4 border-t border-[#CFD2D3]">
